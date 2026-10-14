@@ -1,3 +1,5 @@
+<img width="1112" height="718" alt="Ekran Resmi 2026-10-14 23 54 27" src="https://github.com/user-attachments/assets/11b5964a-722f-43e7-b550-6b313bef7415" />
+
 # Yonga 1.0.1 — A Personal AI Agent for Mac
 
 Yonga is a desktop AI agent that carries out natural-language tasks on your Mac. It uses the Gemini, ChatGPT, and Claude websites through Chrome, so no API key is required. Provider account limits and subscription requirements still apply.
